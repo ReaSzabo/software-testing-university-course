@@ -1,6 +1,6 @@
 # Behave + Selenium demo for saucedemo test page
 
-Software Testing Course - university webtest project
+Software Testing course - university webtest project.
 Stack: Python + Behave + Selenium + webdriver-manager, testing https://www.saucedemo.com/.
 
 ## Run project:
@@ -16,4 +16,3 @@ Totals:
 - 5 Scenarios
 - 5 Scenario Outlines
 - 31 total test cases
-
